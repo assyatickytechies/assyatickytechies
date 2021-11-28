@@ -44,10 +44,7 @@ img{
     border-radius: 30px;
 }
 
-.picture:hover{
-    width: 33%;
-    height: 83%;
-}
+
 
 @media screen and (max-width: 768px) {
     .container {
@@ -61,7 +58,6 @@ img{
     }
    .picture{
        width: 80%;
-       height: 100%;
    }
   }
 
